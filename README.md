@@ -1,4 +1,3 @@
-```markdown
 # BlackJack Game (Java Swing)
 
 A simple yet fully functional **BlackJack** card game built using **Java Swing** with a graphical user interface. Players can hit or stay, and the dealer follows standard rules (hits until 17 or higher). The game supports Ace value adjustment (11 or 1) and displays win/loss/tie results.
@@ -22,7 +21,7 @@ A simple yet fully functional **BlackJack** card game built using **Java Swing**
 
 | You Win! | You Lose! | Dealer Hidden Card |
 |--------|--------|--------|
-| ![You Win](screenshots/win.png) | ![You Lose](screenshots/lose.png) | ![Hidden Card](screenshots/hidden.png) |
+| ![You Win](./assets/win.png) | ![You Lose](./assets/lose.png) | ![Hidden Card](./assets/hidden.png) |
 
 ---
 
@@ -124,9 +123,6 @@ No external libraries required.
 ## License
 
 This project is open-source and free to use for educational purposes.
-
----
-```
 
 ---
 
