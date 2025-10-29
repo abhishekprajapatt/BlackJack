@@ -137,4 +137,3 @@ This project is open-source and free to use for educational purposes.
 4. Done! Your project is now professionally documented.
 
 Let me know if you want a **GitHub-ready** version with badges, GIF demo, or downloadable ZIP setup!
-```
